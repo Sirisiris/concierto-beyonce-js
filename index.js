@@ -1,4 +1,3 @@
-// Tu código va aquí: 
 let edad = 16;
 
 if(edad>=18){
@@ -22,7 +21,7 @@ if(edad>=18){
             console.log("Lo siento, eres demasiado joven, vuelve a intentarlo en unos años")
         }
     }
-    
+
 gestionarAdmision(0);
 gestionarAdmision(8);
 gestionarAdmision(12);
