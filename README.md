@@ -16,7 +16,6 @@ Vamos a crear dos variantes de un mismo programa para ayudar a Beyoncé: una con
 
 ## Parte 1: Variables y condicionales
 Crea una variable de edad con 'let' y asóciala al número 16. Alternativamente, si ya sabes JavaScript, crea un objeto Asistente que contenga un nombre, una edad, y un booleano para determinar si tiene o no ticket. 
-
 Ahora crea un condicional que refleje las diferentes normas de acceso indicadas en el enunciado del ejercicio, y retorna por consola los siguientes valores: 
 - Si la persona tiene más de 18 años, debemos retornar "Eres mayor de edad, puedes entrar."
 - Si la persona tiene entre 14 yy 17 años (ambos incluídos), debemos retornar un mensaje que diga "Puedes entrar, pero sólo si te acompaña una persona mayor de edad."
